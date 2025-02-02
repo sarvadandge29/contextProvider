@@ -25,4 +25,4 @@ Before running this project, ensure you have:
 
    ```sh
    git clone https://github.com/sarvadandge29/contextProvider.git
-   cd supabase-auth-context
+   cd contextProvider
