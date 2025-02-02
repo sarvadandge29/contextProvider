@@ -24,5 +24,5 @@ Before running this project, ensure you have:
 1. **Clone the Repository**  
 
    ```sh
-   git clone https://github.com/your-username/supabase-auth-context.git
+   git clone https://github.com/sarvadandge29/contextProvider.git
    cd supabase-auth-context
